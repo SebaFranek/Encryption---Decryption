@@ -2,7 +2,7 @@ package encryptdecrypt;
 
 import static encryptdecrypt.IO.*;
 
-public class Main {
+class Main {
     private static String alg = "shift";
     private static String mode = "enc";
     private static int key = 0;
